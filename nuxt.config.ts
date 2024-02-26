@@ -1,6 +1,4 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import * as fs from "fs";
-
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
